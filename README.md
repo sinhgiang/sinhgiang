@@ -10,7 +10,7 @@ from the idea and the spec to tests, release, store listing and support.
 | [**Wispra**](https://github.com/sinhgiang/wispra) | Voice dictation and meeting notes for any app: speak, get clean text, summaries, mind maps and posts. | Windows, macOS, mobile |
 | [**Lenvid**](https://lenvid.vercel.app) | AI teleprompter for creators: read your script on camera, with AI help for the script and delivery. | iPhone, Android |
 | [**Revova**](https://revova.io) | Payment recovery for subscription businesses: recovery emails at the customer's local time, smart retries, win-back. | Web |
-| **Timio** | Attendance, leave and HR for small teams. | |
+| **[Timio](https://timio.vn)** | AI attendance with face recognition, leave and payroll for small teams. | Web, iPhone, Android |
 | [**Trekking Tour Sapa**](https://trekkingtoursapa.com) | Website and booking for a local trekking company in Sapa, Vietnam. | Web |
 
 ### How I work
