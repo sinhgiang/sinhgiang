@@ -22,4 +22,4 @@ from the idea and the spec to tests, release, store listing and support.
 
 ### Find me
 
-[X](https://x.com/sinhgiangfd) · [LinkedIn](https://www.linkedin.com/in/sinh-giang/) · [revova.io](https://revova.io)
+[sinhgiang.com](https://sinhgiang.com) · [X](https://x.com/sinhgiangfd) · [LinkedIn](https://www.linkedin.com/in/sinh-giang/) · [revova.io](https://revova.io)
